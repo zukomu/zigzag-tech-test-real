@@ -1,0 +1,33 @@
+@import "../../../assets/scss/mixins-and-variables.scss";
+.breed-index-container{
+    width: 50vw;
+    margin: 0 25vw;
+    .breed{
+        +:not(:first-child){
+            margin-top: 15px;
+        }
+        @include detail-box;
+        .breed-details{
+            display: flex;
+            justify-content: space-between;
+        }
+        h1{
+            margin-top: 0;
+        }
+    }
+    .page-list{
+        display: flex;
+        button{
+            @include detail-box;
+            padding: 10px 15px;
+            +:not(:first-child){
+                margin-left: 5px;
+            }
+            
+        }
+        button:disabled{
+            background-color: #aaaaaa;
+            color: #ffffff;
+        }
+    }
+}

@@ -1,0 +1,13 @@
+@import "../../../assets/scss/mixins-and-variables.scss";
+.breed{
+    
+    @include detail-box;
+    width: 70vw;
+    margin: 0 15vw;
+    .breed-details{
+        display: flex;
+    }
+    h1{
+        margin-top: 0;
+    }
+}

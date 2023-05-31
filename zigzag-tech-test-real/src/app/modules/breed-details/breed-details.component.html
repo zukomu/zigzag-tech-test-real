@@ -1,0 +1,10 @@
+
+<div *ngIf="dogBreed" class="breed">
+    <h1>{{dogBreed.name}}</h1>
+    <div class="breed-details">
+        <label>{{dogBreed.shortBio}} {{dogBreed.longBio}}</label>
+        <img [src]="dogBreed.img">
+    </div>
+    
+    <button (click)="returnToIndex()"><i class="fa fa-book"></i> Return to index</button>
+</div>

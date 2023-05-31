@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Border Collie",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Blue_Merle_Border_Collie._Female.jpg/220px-Blue_Merle_Border_Collie._Female.jpg",
+    "shortBio": "The Border Collie is a breed of herding dog of medium size.",
+    "longBio": "Widely considered to be the most intelligent dog breed, they are descendants of landrace sheepdogs that were once found all over the British Isles, but became standardised in the Anglo-Scottish border region. They are now mostly used as working dogs to herd livestock, specifically sheep.", 
+    "id": 0
+  },
+  {
+    "name": "Chihuahua",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Chihuahua1_bvdb.jpg/220px-Chihuahua1_bvdb.jpg",
+    "shortBio": "The Chihuahua or Spanish: Chihuahueño is a Mexican breed of toy dog.",
+    "longBio": "It is named for the Mexican state of Chihuahua and is among the smallest of all dog breeds. It is usually kept as a companion animal or for showing.", 
+    "id": 1
+  },
+  {
+    "name": "Jack Russell Terrier",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Jack_Russell_Terrier_1.jpg/220px-Jack_Russell_Terrier_1.jpg",
+    "shortBio": "The Jack Russell Terrier is a small terrier that has its origins in fox hunting in England.",
+    "longBio": "It is principally white-bodied and smooth, rough or broken-coated and can be any colour. Small tan and white terriers that technically belong to other breeds are sometimes known erroneously as \"Jack Russells\". Each breed has different physical characteristics according to the standards of their national breed clubs; size and proportions are often used to tell them apart.", 
+    "id": 2
+  },
+  {
+    "name": "Yorkshire Terrier",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/%282_version%29_Grupp_3%2C_YORKSHIRETERRIER%2C_NO_UCH_SE_UCH_Oxzar_Amazing_Bel%E2%80%99s_Toffy_%2824310212305%29.jpg/220px-%282_version%29_Grupp_3%2C_YORKSHIRETERRIER%2C_NO_UCH_SE_UCH_Oxzar_Amazing_Bel%E2%80%99s_Toffy_%2824310212305%29.jpg",
+    "shortBio": "The Yorkshire Terrier is a British breed of toy dog of terrier type.",
+    "longBio": "It is among the smallest of the terriers and indeed of all dog breeds, with a weight of no more than 3.2 kg/7 pounds.[1] It originated in the nineteenth century in the English county of Yorkshire, for which it is named.[2] Their coats are typically tan on the head with a dark steel-grey body, but they can come in a variety of colors.", 
+    "id": 3
+  },
+  {
+    "name": "Bulldog",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bulldog_inglese.jpg/220px-Bulldog_inglese.jpg",
+    "shortBio": "The Bulldog is a British breed of dog of mastiff type. It may also be known as the English Bulldog or British Bulldog.",
+    "longBio": "It is a medium sized, muscular dog of around 40–55 lb (18–25 kg). They have large heads with thick folds of skin around the face and shoulders, and a relatively flat face with a protruding lower jaw. The breed has significant health issues as a consequence of breeding for its distinctive appearance, including brachycephalia, hip dysplasia, heat sensitivity, and skin infections. Due to concerns about their quality of life, breeding Bulldogs is illegal in Norway and the Netherlands.", 
+    "id": 4
+  },
+  {
+    "name": "Husky",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/DOG-HUSKY_23JUL00.jpg/220px-DOG-HUSKY_23JUL00.jpg",
+    "shortBio": "Husky is a general term for a dog used in the polar regions, primarily and specifically for work as sled dogs",
+    "longBio": "It refers to a traditional northern type, notable for its cold-weather tolerance and overall hardiness. Modern racing huskies that maintain arctic breed traits (also known as Alaskan huskies) represent an ever-changing crossbreed of the fastest dogs.", 
+    "id": 5
+  },
+  {
+    "name": "Greyhound",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GraceTheGreyhound.jpg/220px-GraceTheGreyhound.jpg",
+    "shortBio": "The English Greyhound, or simply the Greyhound, is a breed of dog, a sighthound which has been bred for coursing, greyhound racing and hunting",
+    "longBio": "Since the rise in large-scale adoption of retired racing Greyhounds, the breed has seen a resurgence in popularity as a family pet. Greyhounds are defined as a tall, muscular, smooth-coated, \"S-shaped\" type of sighthound with a long tail and tough feet. Greyhounds are a separate breed from other related sighthounds, such as the Italian greyhound.", 
+    "id": 6
+  },
+  {
+    "name": "Mastiff",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Alano-espanol-0003.jpg/150px-Alano-espanol-0003.jpg",
+    "shortBio": "A mastiff is a large and powerful type of dog.",
+    "longBio": "Mastiffs are among the largest dogs, and typically have a short coat, a long low-set tail and large feet; the skull is large and bulky, the muzzle broad and short (brachycephalic) and the ears drooping and pendant-shaped. European and Asian records dating back 3,000 years show dogs of the mastiff type. Mastiffs have historically been guard dogs, protecting homes and property, although throughout history they have been used as hunting dogs, war dogs and for blood sports, such as fighting each other and other animals, including bulls, bears and even lions.", 
+    "id": 7
+  },
+  {
+    "name": "Poodle",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Full_attention_%288067543690%29.jpg/220px-Full_attention_%288067543690%29.jpg",
+    "shortBio": "The Poodle, called the Pudel in German and the Caniche in French, is a breed of water dog.",
+    "longBio": "The breed is divided into four varieties based on size, the Standard Poodle, Medium Poodle, Miniature Poodle and Toy Poodle, although the Medium Poodle is not universally recognised. They have a distinctive thick, curly coat that comes in many colors and patterns, with only solid colors recognized by breed registries. Poodles are active and intelligent, and are particularly able to learn from humans. Poodles tend to live 10–18 years, with smaller varieties tending to live longer than larger ones.", 
+    "id": 8
+  },
+  {
+    "name": "Pug",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Mops_oct09_cropped2.jpg/220px-Mops_oct09_cropped2.jpg",
+    "shortBio": "The Pug is a breed of dog originally from China, with physically distinctive features of a wrinkly, short-muzzled face, and curled tail",
+    "longBio": "The breed has a fine, glossy coat that comes in a variety of colors, most often fawn (light brown) or black, and a compact, square body with well developed and thick muscles all over the body. Pugs were brought from China to Europe in the sixteenth century and were popularized in Western Europe by the House of Orange of the Netherlands, and the House of Stuart. In the United Kingdom, in the nineteenth century, Queen Victoria developed a passion for pugs which she passed on to other members of the Royal Family.", 
+    "id": 9
+  },
+  {
+    "name": "German Shepherd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/German_Shepherd_-_DSC_0346_%2810096362833%29.jpg/220px-German_Shepherd_-_DSC_0346_%2810096362833%29.jpg",
+    "shortBio": "The German Shepherd[a] is a German breed of working dog of medium to large size.",
+    "longBio": "The breed was developed by Max von Stephanitz using various traditional German herding dogs from 1899. It was originally bred as a herding dog, for herding sheep. It has since been used in many other types of work, including disability assistance, search-and-rescue, police work, and warfare. It is commonly kept as a companion dog, and according to the Fédération Cynologique Internationale had the second-highest number of annual registrations in 2013.", 
+    "id": 10
+  }
+]

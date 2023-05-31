@@ -1,0 +1,22 @@
+<div class="breed-index-container">
+    <div class="breed-list">
+        <div class="breed" *ngFor="let breed of breedService.dogBreeds$ | async | slice:pageNumber * maxPerPage:pageNumber * maxPerPage + maxPerPage">
+            <h1>{{breed.name}}</h1>
+            <div class="breed-details">
+                <label>{{breed.shortBio}}</label>
+                <img [src]="breed.img">
+            </div>
+            
+            <button (click)="openDog(breed.id)"><i class="fa fa-paw"></i>More Details</button>
+        </div>
+    </div>
+    <div class="page-list">
+        <button [disabled]="pageNumber === 0" (click)="pageNumber = pageNumber-1">
+            <i class="fa fa-backward"></i>
+        </button>
+        <button *ngFor="let page of pages" [disabled]="page === pageNumber" (click)="pageNumber = page">{{page + 1}}</button>
+        <button [disabled]="pageNumber === pages.length" (click)="pageNumber = pageNumber + 1">
+            <i class="fa fa-forward"></i>
+        </button>
+    </div>
+</div>
